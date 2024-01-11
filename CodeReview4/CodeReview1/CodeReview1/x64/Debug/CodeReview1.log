@@ -1,0 +1,12 @@
+﻿  glad.c
+  CameraMovement.cpp
+  Main.cpp
+d:\danielpers\master\semester1\echtzeitgrafik\codereview1\codereview1\codereview1\main.cpp(260): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+d:\danielpers\master\semester1\echtzeitgrafik\codereview1\codereview1\codereview1\main.cpp(260): warning C4309: 'argument': truncation of constant value
+d:\danielpers\master\semester1\echtzeitgrafik\codereview1\codereview1\codereview1\main.cpp(264): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+d:\danielpers\master\semester1\echtzeitgrafik\codereview1\codereview1\codereview1\main.cpp(264): warning C4309: 'argument': truncation of constant value
+d:\danielpers\master\semester1\echtzeitgrafik\codereview1\codereview1\codereview1\main.cpp(288): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CodeReview1.vcxproj -> D:\DanielPers\Master\Semester1\EchtzeitGrafik\CodeReview1\CodeReview1\x64\Debug\CodeReview1.exe

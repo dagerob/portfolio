@@ -1,0 +1,12 @@
+﻿  CameraMovement.cpp
+  Main.cpp
+d:\danielpers\master\semester1\echtzeitgrafik\codereview4\codereview1\codereview1\main.cpp(267): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+d:\danielpers\master\semester1\echtzeitgrafik\codereview4\codereview1\codereview1\main.cpp(267): warning C4309: 'argument': truncation of constant value
+d:\danielpers\master\semester1\echtzeitgrafik\codereview4\codereview1\codereview1\main.cpp(271): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+d:\danielpers\master\semester1\echtzeitgrafik\codereview4\codereview1\codereview1\main.cpp(271): warning C4309: 'argument': truncation of constant value
+d:\danielpers\master\semester1\echtzeitgrafik\codereview4\codereview1\codereview1\main.cpp(298): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  Generating code
+  All 554 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CodeReview1.vcxproj -> D:\DanielPers\Master\Semester1\EchtzeitGrafik\CodeReview4\CodeReview1\x64\Release\CodeReview1.exe

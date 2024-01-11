@@ -1,0 +1,14 @@
+﻿  GameOfLife.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\danielpers\master\semester1\efizienteprogrammierung\projectsclass\gameoflife\gameoflife\gameoflife\gridcl.h(30): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Grid.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  GridCL.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\danielpers\master\semester1\efizienteprogrammierung\projectsclass\gameoflife\gameoflife\gameoflife\gridcl.h(30): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+d:\danielpers\master\semester1\efizienteprogrammierung\projectsclass\gameoflife\gameoflife\gameoflife\gridcl.cpp(132): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Timing.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  Generating Code...
+d:\danielpers\master\semester1\efizienteprogrammierung\projectsclass\gameoflife\gameoflife\gameoflife\gridcl.cpp(190): warning C4715: 'GridCL::initializeCL': not all control paths return a value
+  GameOfLife.vcxproj -> D:\DanielPers\Master\Semester1\EfizienteProgrammierung\ProjectsClass\GameOfLife\GameOfLife\Debug\GameOfLife.exe

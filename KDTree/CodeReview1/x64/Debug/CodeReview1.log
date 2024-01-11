@@ -1,0 +1,24 @@
+﻿  CameraMovement.cpp
+  KDTree.cpp
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\KDTree.cpp(12,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\KDTree.cpp(134,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\KDTree.cpp(137,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(209,96): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(209,40): warning C4309: 'argument': truncation of constant value
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(213,96): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(213,40): warning C4309: 'argument': truncation of constant value
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(259,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(371,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(373,72): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(474,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(475,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(606,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(606,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Shader.cpp
+  Timing.cpp
+  Triangle.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CodeReview1.vcxproj -> D:\VisualStudio\Master\ALGO\CodeReview1\x64\Debug\CodeReview1.exe

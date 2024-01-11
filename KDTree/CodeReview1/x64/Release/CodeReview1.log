@@ -1,0 +1,23 @@
+﻿  KDTree.cpp
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\KDTree.cpp(12,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\KDTree.cpp(129,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\KDTree.cpp(132,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(222,96): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(222,40): warning C4309: 'argument': truncation of constant value
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(226,96): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(226,40): warning C4309: 'argument': truncation of constant value
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(274,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(395,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(397,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(500,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(501,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(634,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\Master\ALGO\CodeReview1\CodeReview1\Main.cpp(634,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Triangle.cpp
+  Generating code
+  5 of 926 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    58 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CodeReview1.vcxproj -> D:\VisualStudio\Master\ALGO\CodeReview1\x64\Release\CodeReview1.exe
