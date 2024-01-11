@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - nave
+  - astronauta
+  - routerX
+  - naveX
+  - meteoroX
+  - astronautaX
+  - Key
+  - Generator
+  - GameManager
+  - Player1SpawnPoint
+  - Player2SpawnPoint
+  - Enemy1SpawnPoint
+  - Enemy2SpawnPoint
+  - Enemy3SpawnPoint
+  - Enemy4SpawnPoint
+  - GeneratorSpawnPoint
+  - KeySpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - Players
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - background  image
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 292825575
+    locked: 0
+  - name: Walls
+    uniqueID: 2261267545
+    locked: 0
+  - name: Enemies
+    uniqueID: 1352785163
+    locked: 0
+  - name: Items
+    uniqueID: 321574491
+    locked: 0
+  - name: Players
+    uniqueID: 2533725385
+    locked: 0
+  - name: FX
+    uniqueID: 450997459
+    locked: 0
+  - name: UI
+    uniqueID: 2619308257
+    locked: 0
