@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Master\Semester4\AGD\TestU2\jobsystem_skeleton\jobsystem\main.cpp(260,20): warning C4018: '>': signed/unsigned mismatch
+  jobsystem.vcxproj -> D:\Master\Semester4\AGD\TestU2\jobsystem_skeleton\jobsystem\x64\Debug\jobsystem.exe
