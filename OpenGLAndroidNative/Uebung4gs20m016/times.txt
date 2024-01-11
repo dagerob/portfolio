@@ -1,0 +1,28 @@
+loadTimes in ms (time to read OBJ and store it in array in program, 21807 vertices):
+5701
+5629
+5609
+5606
+5644
+----
+5637.8 ms average
+
+################################################################################
+Unoptimized
+draw time in ms (whole draw method, 21807 vertices, draw triangles):
+9
+9
+10
+14
+10
+----
+10.4 ms average
+###############################################################################
+Optimized with index buffer
+10
+11
+11
+12
+11
+----
+11 ms average
