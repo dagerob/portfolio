@@ -1,0 +1,1 @@
+D:\Portfolio\portfolio\C++\StringLib\StringGer\Debug\StringGer.lib
