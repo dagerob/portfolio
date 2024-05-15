@@ -35,13 +35,16 @@ namespace strGer
 		size_t size;
 	public:
 		String();
+		String(const char* charArray, size_t length);
+		String(const char* cstring);
 		String(const String& other);
 		String(String&& other);
 		String& operator=(const String& other);
 		String& operator=(String&& other);
+		char operator[](int index);
 		~String();
 		size_t getLength();
-		StringIterator findChar();
+		StringIterator findChar() {};
 		StringIterator begin();
 		StringIterator end();
 	};

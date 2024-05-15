@@ -6,7 +6,7 @@
 
 int main()
 {
-    fnStringGer();
+    strGer::String myString("hello", 5);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
